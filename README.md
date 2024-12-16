@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Alina!🦄
 
-<!--
-**alina-yur/alina-yur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer advocate for the awesome [GraalVM 🐰](https://github.com/oracle/graal) at [Oracle](https://github.com/oracle). I create demos and blog posts, speak at conferences, and collaborate with our open source community. Here is some of my work.
 
-Here are some ideas to get you started:
+## Upcoming talks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🇨🇭 [Bring the Action: Using GraalVM in Production](https://cern.voxxeddays.com/) (Voxxed Days CERN, Switzerland, 15 January 2025)
+* 🇨🇭 [Bring the Action: Using GraalVM in Production](https://ticino.voxxeddays.com/) (Voxxed Days Ticino, Switzerland, 17 January 2025)
+* 🇨🇭 [Practical LLM Inference in Modern Java](https://zurich.voxxeddays.com/) (Voxxed Days Zurich, 25 March, Switzerland, 2025)
+
+See more [here](https://github.com/alina-yur/public-speaking/).
+
+## Sample projects
+
+## Blog posts
