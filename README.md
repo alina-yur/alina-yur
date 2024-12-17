@@ -8,8 +8,14 @@ I'm a developer advocate for the awesome [GraalVM 🐰](https://github.com/oracl
 * 🇨🇭 [Bring the Action: Using GraalVM in Production](https://ticino.voxxeddays.com/) (Voxxed Days Ticino, Switzerland, 17 January 2025)
 * 🇨🇭 [Practical LLM Inference in Modern Java](https://zurich.voxxeddays.com/) (Voxxed Days Zurich, 25 March, Switzerland, 2025)
 
-See more [here](https://github.com/alina-yur/public-speaking/).
+See past talks and more details [here](https://github.com/alina-yur/public-speaking/).
 
 ## Sample projects
+
+* [native-spring-boot 🍃](https://github.com/alina-yur/native-spring-boot)
+* [native-langchain4j 🦜](https://github.com/alina-yur/native-langchain4j)
+* [native-spring-ai 🤖](https://github.com/alina-yur/native-spring-ai)
+* [graalvm-resources 🐰](https://github.com/alina-yur/graalvm-resources)
+* [swiss-german-dictionary 🇨🇭](https://github.com/alina-yur/swiss-german-dictionary)
 
 ## Blog posts
