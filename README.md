@@ -20,6 +20,7 @@ See past talks and more details [here](https://github.com/alina-yur/public-speak
 
 ## Blog posts 🔏
 
+* [GraalVM in 2024: A year in review](https://medium.com/graalvm/graalvm-in-2024-a-year-in-review-fe8dff967d82)
 * [5 Cool Applications You Can Build With Java and GraalVM](https://www.javaadvent.com/2024/12/5-cool-applications-you-can-build-with-java-and-graalvm.html)
 * [Welcome, GraalVM for JDK 23!](https://medium.com/graalvm/welcome-graalvm-for-jdk-23-203928491b2b)
 * [What’s new in Graal Languages 24.1](https://medium.com/graalvm/whats-new-in-graal-languages-24-1-b2452c9debae)
