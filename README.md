@@ -30,7 +30,7 @@ You can find more on YouTube, here are a few of my favs.
 * [graalvm-resources 🐰](https://github.com/alina-yur/graalvm-resources)
 * [swiss-german-dictionary 🇨🇭](https://github.com/alina-yur/swiss-german-dictionary)
 
-## Blog posts 🔏
+## Blog posts & Articles 🔏
 
 * [GraalVM in 2024: A year in review](https://medium.com/graalvm/graalvm-in-2024-a-year-in-review-fe8dff967d82)
 * [5 Cool Applications You Can Build With Java and GraalVM](https://www.javaadvent.com/2024/12/5-cool-applications-you-can-build-with-java-and-graalvm.html)
