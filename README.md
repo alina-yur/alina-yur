@@ -1,14 +1,26 @@
 # Hi, I'm Alina!🦄
 
-I'm a developer advocate for the awesome [GraalVM 🐰](https://github.com/oracle/graal) at [Oracle](https://github.com/oracle). I create demos and blog posts, speak at conferences, and collaborate with our open source community. Here is some of my work.
+I'm a developer advocate for the awesome [GraalVM 🐰](https://github.com/oracle/graal) at [Oracle](https://github.com/oracle). In this role I create demos and blog posts, speak at conferences, and collaborate with our open source community. I love traveling, reading fiction, learning new things, and talking to people :)
 
-## Upcoming talks 🎙️
+For speaking & content engagements, you can get in touch with me anywhere on social, such as on [Twitter](https://x.com/alina_yurenko) or [BlueSky](https://bsky.app/profile/alina-yurenko.bsky.social). Below you can find some of my work.
+
+## Upcoming talks ✈️
 
 * 🇨🇭 [Bring the Action: Using GraalVM in Production](https://cern.voxxeddays.com/) (Voxxed Days CERN, Switzerland, 15 January 2025)
 * 🇨🇭 [Bring the Action: Using GraalVM in Production](https://ticino.voxxeddays.com/) (Voxxed Days Ticino, Switzerland, 17 January 2025)
 * 🇨🇭 [Practical LLM Inference in Modern Java](https://zurich.voxxeddays.com/) (Voxxed Days Zurich, 25 March, Switzerland, 2025)
 
 See past talks and more details [here](https://github.com/alina-yur/public-speaking/).
+
+## Session recordings 📹
+
+You can find more on YouTube, here are a few of my favs.
+
+* 🇧🇪 [Bring the action: using GraalVM in production](https://www.youtube.com/watch?v=axQXBKHSwkM) (Devoxx Belgium)
+* 🇧🇪 [Practical LLM Inference in Modern Java](https://www.youtube.com/watch?v=zgAMxC7lzkc) (Devoxx Belgium)
+* 🇪🇸 [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.youtube.com/watch?v=YclrKfEUHrI) (Spring I/O, Spain)
+* 🇬🇧 [Bootiful GraalVM](https://www.youtube.com/watch?v=3OBhk1c0GBs) (Devoxx UK)
+* 🇳🇴 [Supercharge your GraalVM applications in 5 steps](https://2023.javazone.no/program) (JavaZone, Norway)
 
 ## Sample projects 👩‍💻
 
