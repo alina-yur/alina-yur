@@ -36,3 +36,9 @@ You can find more on YouTube, here are a few of my favs.
 * [5 Cool Applications You Can Build With Java and GraalVM](https://www.javaadvent.com/2024/12/5-cool-applications-you-can-build-with-java-and-graalvm.html)
 * [Welcome, GraalVM for JDK 23!](https://medium.com/graalvm/welcome-graalvm-for-jdk-23-203928491b2b)
 * [What’s new in Graal Languages 24.1](https://medium.com/graalvm/whats-new-in-graal-languages-24-1-b2452c9debae)
+
+## Podcasts 🎙️
+* [High performance with GraalVM](https://open.spotify.com/episode/2CmwOObdE3nN4DYtO0G1i0) (The Geek Narrator Podcast)
+* [GraalVM Advocate Alina Yurenko on a Bootiful Podcast](https://spring.io/blog/2023/01/26/a-bootiful-podcast-graalvm-advocate-alina-yurenko-on-a-bootiful-podcast) (Bootiful Podcast)
+* [Unleashing Native Imaging Power in GraalVM](https://open.spotify.com/episode/7Cxbd78L76flAGH7GnFCgP) (GOTO Podcast)
+* [What Problem Does GraalVM Solve? All of them. Featuring Alina Yurenko](https://open.spotify.com/episode/2M6JWdAuPyiSNI7h8meBEa?si=n-Bm6eNFQ3CLeZLasDiQOg) (Happy Path Programming)
