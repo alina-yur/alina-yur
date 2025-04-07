@@ -6,13 +6,13 @@ For speaking & content engagements, you can get in touch with me anywhere on soc
 
 ## Upcoming talks ✈️
 
-* 🇨🇭 [Practical LLM Inference in Modern Java](https://zurich.voxxeddays.com/) (Voxxed Days Zurich, 25 March, Switzerland, 2025)
-* 🇳🇱 [[Deep Dive] Bring the Action: Using GraalVM in Production](https://amsterdam.voxxeddays.com/) (Voxxed Days Amsterdam, The Netherlands, 3 April, 2025)
 * 🇬🇷 [Bring the Action: Using GraalVM in Production](https://devoxx.gr/) (Devoxx Greece, 10-12 April, 2025)
 * 🇫🇷 [Bring the Action: Using GraalVM in Production](https://www.devoxx.fr/) (Devoxx France, 16-18 April, 2025)
 * 🇬🇧 [Bring the Action: Using GraalVM in Production](https://www.devoxx.co.uk/) (Devoxx UK, 7-9 May, 2025)
 * 🇩🇪 [5 cool applications to build with GraalVM](https://2025.europe.jcon.one/) (JCON, Germany, 12-15 May, 2025)
+* 🇵🇹 [5 cool applications to build with GraalVM](https://jnation.pt/) (JNation, Portugal, 27-28 May, 2025)
 * 🇪🇸 [5 cool applications to build with GraalVM](https://www.devbcn.com/) (DevBcn, Spain, 8-10 July, 2025)
+
 
 See past talks and more details [here](https://github.com/alina-yur/public-speaking/).
 
