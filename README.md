@@ -19,6 +19,7 @@ See past talks and more details [here](https://github.com/alina-yur/public-speak
 
 You can find more on YouTube, here are a few of my favs.
 
+* 🇳🇱 [[Deep Dive] Bring the Action: Using GraalVM in Production](https://www.youtube.com/watch?v=VVUngUrMjAo) (Voxxed Days Amsterdam, The Netherlands, 3 April, 2025)
 * 🇧🇪 [Bring the action: using GraalVM in production](https://www.youtube.com/watch?v=axQXBKHSwkM) (Devoxx Belgium)
 * 🇧🇪 [Practical LLM Inference in Modern Java](https://www.youtube.com/watch?v=zgAMxC7lzkc) (Devoxx Belgium)
 * 🇪🇸 [Going AOT: Everything you need to know about GraalVM for Java applications](https://www.youtube.com/watch?v=YclrKfEUHrI) (Spring I/O, Spain)
