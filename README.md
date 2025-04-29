@@ -34,6 +34,7 @@ You can find more on YouTube, here are a few of my favs.
 * [native-modern-java-demo ☕️](https://github.com/alina-yur/native-modern-java-demo)
 * [graalvm-resources 🐰](https://github.com/alina-yur/graalvm-resources)
 * [swiss-german-dictionary 🇨🇭](https://github.com/alina-yur/swiss-german-dictionary)
+* [native-micronaut 👩‍🚀](https://github.com/alina-yur/native-micronaut)
 
 ## Blog posts & Articles 🔏
 
