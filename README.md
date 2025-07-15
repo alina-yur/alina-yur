@@ -6,7 +6,6 @@ For speaking & content engagements, you can get in touch with me anywhere on soc
 
 ## Upcoming talks ✈️
 
-* 🇪🇸 [5 cool applications to build with GraalVM](https://www.devbcn.com/) (DevBcn, Spain, 8-10 July, 2025)
 * 🇳🇴 [Fun With (Native Image) Flags 🏁](https://2025.javazone.no/en) (JavaZone, Norway, September 3-4, 2025)
 
 
