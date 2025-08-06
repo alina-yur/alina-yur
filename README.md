@@ -7,6 +7,10 @@ For speaking & content engagements, you can get in touch with me anywhere on soc
 ## Upcoming talks ✈️
 
 * 🇳🇴 [Fun With (Native Image) Flags 🏁](https://2025.javazone.no/en) (JavaZone, Norway, September 3-4, 2025)
+* 🌍 [GraalVM for JDK 25 Release stream]() (GraalVM Youtube, 16 September 2025)
+* 🌍 [GraalVM for JDK 25: New Features and Practical Tips](https://www.linkedin.com/events/7356616707773288450/) (vJUG, online, September 23 2025)
+* 🇧🇪 [[Deep Dive] GraalVM in Practice]() (Devoxx Belgium, 6-10 October 2025)
+* 🇧🇪 [GraalVM BOF]() (Devoxx Belgium, 6-10 October 2025)
 
 
 See past talks and more details [here](https://github.com/alina-yur/public-speaking/).
