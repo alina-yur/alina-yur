@@ -42,6 +42,7 @@ You can find more on YouTube, here are a few of my favs.
 * [5 Cool Applications You Can Build With Java and GraalVM](https://www.javaadvent.com/2024/12/5-cool-applications-you-can-build-with-java-and-graalvm.html)
 * [Welcome, GraalVM for JDK 23!](https://medium.com/graalvm/welcome-graalvm-for-jdk-23-203928491b2b)
 * [What’s new in Graal Languages 24.1](https://medium.com/graalvm/whats-new-in-graal-languages-24-1-b2452c9debae)
+* [Raising $130,000 for Ukraine with GDG DevFest](https://medium.com/gdg-lviv/thank-you-for-supporting-devfest-for-ukraine-%EF%B8%8F-1723db7a460)
 
 ## Podcasts 🎙️
 * [High performance with GraalVM](https://open.spotify.com/episode/2CmwOObdE3nN4DYtO0G1i0) (The Geek Narrator Podcast)
