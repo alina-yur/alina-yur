@@ -6,9 +6,7 @@ For speaking & content engagements, you can get in touch with me anywhere on soc
 
 ## Upcoming talks ✈️
 
-* 🇧🇪 [[Deep Dive] GraalVM in Practice]() (Devoxx Belgium, 6-10 October 2025)
-* 🇧🇪 [GraalVM BOF]() (Devoxx Belgium, 6-10 October 2025)
-
+* 🇲🇦 [[Deep Dive] Bring the Action: Using GraalVM in Production](https://devoxx.ma) (Devoxx Morocco, 12-14 November,2025)
 
 See past talks and more details [here](https://github.com/alina-yur/public-speaking/).
 
