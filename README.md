@@ -7,7 +7,7 @@ For speaking & content engagements, you can get in touch with me anywhere on soc
 ## Upcoming talks ✈️
 
 * 🇲🇦 [[Deep Dive] Bring the Action: Using GraalVM in Production](https://devoxx.ma) (Devoxx Morocco, 12-14 November,2025)
-* 🇳🇱 [TBA](https://amsterdam.voxxeddays.com/) (Voxxed Days Amsterdam, The Netherlands, 1-2 April, 2026)
+* 🇳🇱 Voxxed Days Amsterdam, The Netherlands, 1-2 April, 2026
 
 See past talks and more details [here](https://github.com/alina-yur/public-speaking/).
 
