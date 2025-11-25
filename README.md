@@ -48,6 +48,7 @@ You can find more on YouTube, here are a few of my favs.
 | Repository | Description |
 | :--- | :--- |
 | [agentic-devrel-helper-spring](https://github.com/alina-yur/agentic-devrel-helper-spring) | Agentic workflow helper built with Spring. |
+| [christmas-market-agent](https://github.com/alina-yur/christmas-market-agent) | A booking assistant built with Micronaut, LangChain4j, and GraalVM. |
 | [native-spring-ai](https://github.com/alina-yur/native-spring-ai) | Travel recommendation app leveraging Spring AI, OpenAI API, and GraalVM. |
 | [native-langchain4j](https://github.com/alina-yur/native-langchain4j) | A LangChain4j, OpenAI, and GraalVM example. |
 | [spring-boot-sentiment-analysis](https://github.com/alina-yur/spring-boot-sentiment-analysis) | Sentiment analysis implementation using Spring Boot and GraalVM. |
