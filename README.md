@@ -39,7 +39,6 @@ You can find more on YouTube, here are a few of my favs.
 | [native-spring-boot-adb](https://github.com/alina-yur/native-spring-boot-adb) | Microservices data-driven demo |
 | [native-spring-boot-adb-jpa](https://github.com/alina-yur/native-spring-boot-adb-jpa) | Extension of the ADB demo using JPA. |
 | [native-ffm](https://github.com/alina-yur/native-ffm) | Foreign Function & Memory API usage in Native Image. |
-| [native-picocli](https://github.com/alina-yur/native-picocli) | Command line interface examples with Picocli and Native Image. |
 | [native-micronaut](https://github.com/alina-yur/native-micronaut) | Micronaut Native Image examples. |
 
 ### 🤖 AI & Agents
