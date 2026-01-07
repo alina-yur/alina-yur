@@ -36,11 +36,9 @@ You can find more on YouTube, here are a few of my favs.
 | [native-spring-multi-module](https://github.com/alina-yur/native-spring-multi-module) | Building a multi-module Spring Boot native project. |
 | [native-modern-java-demo](https://github.com/alina-yur/native-modern-java-demo) | "Modern Java in Action But Make It Native" (Java 21+ features). |
 | [swiss-german-dictionary](https://github.com/alina-yur/swiss-german-dictionary) | A GraalVM / H2 / Spring Native application. |
-| [native-micronaut-reflection](https://github.com/alina-yur/native-micronaut-reflection) | Reflection usage within Micronaut Native. |
-| [native-spring-boot-adb](https://github.com/alina-yur/native-spring-boot-adb) | Microservices data-driven demo |
-| [native-spring-boot-adb-jpa](https://github.com/alina-yur/native-spring-boot-adb-jpa) | Extension of the ADB demo using JPA. |
-| [native-ffm](https://github.com/alina-yur/native-ffm) | Foreign Function & Memory API usage in Native Image. |
 | [native-micronaut](https://github.com/alina-yur/native-micronaut) | Micronaut Native Image examples. |
+| [native-micronaut-reflection](https://github.com/alina-yur/native-micronaut-reflection) | Reflection usage within Micronaut Native. |
+| [native-ffm](https://github.com/alina-yur/native-ffm) | Foreign Function & Memory API usage in Native Image. |
 
 ### 🤖 AI & Agents
 *Integration with OpenAI, LangChain4j, Spring AI, and local LLMs.*
