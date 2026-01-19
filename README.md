@@ -24,57 +24,18 @@ You can find more on YouTube, here are a few of my favs.
 
 ## Projects and demos 👩‍💻
 
-### 🚀 GraalVM Native Image
-*Focusing on Spring Boot, Micronaut, and general Native Image capabilities.*
-
-| Repository | Description |
-| :--- | :--- |
-| [native-spring-boot](https://github.com/alina-yur/native-spring-boot) | Build and test various capabilities of Spring Boot & GraalVM. |
-| [native-spring-petclinic](https://github.com/alina-yur/native-spring-petclinic) | Spring PetClinic but make it ✨ native ✨. |
-| [native-spring-shell](https://github.com/alina-yur/native-spring-shell) | Spring Shell application running as a native executable. |
-| [native-spring-boot-sbom](https://github.com/alina-yur/native-spring-boot-sbom) | SBOM support in Oracle GraalVM Native Image and Spring Boot. |
-| [native-spring-multi-module](https://github.com/alina-yur/native-spring-multi-module) | Building a multi-module Spring Boot native project. |
-| [native-modern-java-demo](https://github.com/alina-yur/native-modern-java-demo) | "Modern Java in Action But Make It Native" (Java 21+ features). |
-| [swiss-german-dictionary](https://github.com/alina-yur/swiss-german-dictionary) | A GraalVM / H2 / Spring Native application. |
-| [native-micronaut](https://github.com/alina-yur/native-micronaut) | Micronaut Native Image examples. |
-| [native-micronaut-reflection](https://github.com/alina-yur/native-micronaut-reflection) | Reflection usage within Micronaut Native. |
-| [native-ffm](https://github.com/alina-yur/native-ffm) | Foreign Function & Memory API usage in Native Image. |
-
-### 🤖 AI & Agents
-*Integration with OpenAI, LangChain4j, Spring AI, and local LLMs.*
-
-| Repository | Description |
-| :--- | :--- |
-| [agentic-devrel-helper-spring](https://github.com/alina-yur/agentic-devrel-helper-spring) | Agentic workflow helper built with Spring. |
-| [christmas-market-agent](https://github.com/alina-yur/christmas-market-agent) | A booking assistant built with Micronaut, LangChain4j, and GraalVM. |
-| [native-spring-ai](https://github.com/alina-yur/native-spring-ai) | Travel recommendation app leveraging Spring AI, OpenAI API, and GraalVM. |
-| [native-langchain4j](https://github.com/alina-yur/native-langchain4j) | A LangChain4j, OpenAI, and GraalVM example. |
-| [spring-boot-sentiment-analysis](https://github.com/alina-yur/spring-boot-sentiment-analysis) | Sentiment analysis implementation using Spring Boot and GraalVM. |
-| [agentic-devrel-helper-embabel](https://github.com/alina-yur/agentic-devrel-helper-embabel) | Agentic workflow helper built with Embabel. |
-| [langchain4j-examples](https://github.com/alina-yur/langchain4j-examples) | Forked examples for LangChain4j exploration. |
-
-### 🌍 Graal Languages (Polyglot)
-*Python (GraalPy), Wasm, and other embeddings.*
-
-| Repository | Description |
-| :--- | :--- |
-| [airline-demo](https://github.com/alina-yur/airline-demo) | A demo application showcasing GraalVM and embedding Python with GraalPy. |
-| [great-python-with-graalpy](https://github.com/alina-yur/great-python-with-graalpy) | Exploring the Python ecosystem compatibility with GraalPy. |
-| [wasm-in-java](https://github.com/alina-yur/wasm-in-java) | Polyglot embedding demo using GraalVM for JDK 21 (Wasm focus). |
-| [polyglot-virtual-threads](https://github.com/alina-yur/polyglot-virtual-threads) | Combining Polyglot capabilities with Java Virtual Threads. |
-
-### 🎤 Community, Talks & Content
-*Conference materials, slides, etc.*
-
-| Repository | Description |
-| :--- | :--- |
-| [public-speaking](https://github.com/alina-yur/public-speaking) | Slides and materials from previous & upcoming conference talks. |
-| [graalvm-resources](https://github.com/alina-yur/graalvm-resources) | Blog posts, talks, and resources for getting started with GraalVM. |
-| [graalvm-in-practice](https://github.com/alina-yur/graalvm-in-practice) | GraalVM Deep Dive materials (Devoxx Belgium). |
-| [fun-with-native-image-flags](https://github.com/alina-yur/fun-with-native-image-flags) | Demos and examples for JavaZone 2025. |
-| [five-cool-applications-with-graalvm](https://github.com/alina-yur/five-cool-applications-with-graalvm) | 5 interesting applications running on GraalVM. |
-| [javaconferences.github.io](https://github.com/alina-yur/javaconferences.github.io) | The GitHub repository fork for javaconferences.org. |
-| [bootiful-graalvm-with-alina-yurenko](https://github.com/alina-yur/bootiful-graalvm-with-alina-yurenko) | Devoxx UK demo with Josh Long. |
+* [native-spring-boot 🍃](https://github.com/alina-yur/native-spring-boot)
+* [oracle-database-vector-search 🔎](https://github.com/alina-yur/oracle-database-vector-search)
+* [graalvm-in-practice 👩‍💻](https://github.com/alina-yur/graalvm-in-practice)
+* [native-micronaut 👩‍🚀](https://github.com/alina-yur/native-micronaut-reflection)
+* [great-python-with-graalpy 🐍](https://github.com/alina-yur/great-python-with-graalpy)
+* [airline-demo ✈️](https://github.com/alina-yur/airline-demo)
+* [native-langchain4j 🦜](https://github.com/alina-yur/native-langchain4j)
+* [native-spring-ai 🤖](https://github.com/alina-yur/native-spring-ai)
+* [agentic-devrel-helper-spring 🙋‍♀️](https://github.com/alina-yur/agentic-devrel-helper-spring)
+* [native-modern-java-demo ☕️](https://github.com/alina-yur/native-modern-java-demo)
+* [christmas-market-agent 🎄](https://github.com/alina-yur/christmas-market-agent)
+* [swiss-german-dictionary 🇨🇭](https://github.com/alina-yur/swiss-german-dictionary)
 
 ## Blog posts & Articles 🔏
 
