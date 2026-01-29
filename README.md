@@ -28,6 +28,7 @@ You can find more on YouTube, here are a few of my favs.
 * [native-spring-boot 🍃](https://github.com/alina-yur/native-spring-boot)
 * [oracle-database-vector-search 🔎](https://github.com/alina-yur/oracle-database-vector-search)
 * [graalvm-in-practice 👩‍💻](https://github.com/alina-yur/graalvm-in-practice)
+* [swiss-travel-advisor 🏔️](https://github.com/alina-yur/swiss-travel-advisor)
 * [native-micronaut 👩‍🚀](https://github.com/alina-yur/native-micronaut-reflection)
 * [great-python-with-graalpy 🐍](https://github.com/alina-yur/great-python-with-graalpy)
 * [airline-demo ✈️](https://github.com/alina-yur/airline-demo)
