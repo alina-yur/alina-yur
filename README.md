@@ -5,9 +5,9 @@ I'm a developer advocate for the awesome [GraalVM 🐰](https://github.com/oracl
 For speaking & content engagements, you can get in touch with me anywhere on social, such as on [Twitter](https://x.com/alina_yurenko) or [BlueSky](https://bsky.app/profile/alina-yurenko.bsky.social).
 ## Upcoming talks ✈️
 
-* 🇳🇱 [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) (Voxxed Days Amsterdam, The Netherlands, 1-2 April, 2026)
 * 🇪🇸 [Spring Native: The Future of Fast and Efficient Spring Applications](https://2026.springio.net/sessions/spring-native-the-future-of-fast-and-efficient-spring-applications/) (Spring I/O, Spain, 14-15 April, 2026)
 * 🇬🇷 [Building Fast AI Search and Automation with GraalVM](https://devoxx.gr/) (Devoxx Greece, 23-25 April, 2026)
+* 🇵🇱 [GraalVM 25: What's New and What's Next](https://devoxx.pl/) (Devoxx Poland, 17-19 June, 2026)
 
 See past talks and more details [here](https://github.com/alina-yur/public-speaking/).
 
