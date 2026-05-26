@@ -2,7 +2,7 @@
 
 I'm a developer advocate for the awesome [GraalVM 🐰](https://github.com/oracle/graal) at [Oracle](https://github.com/oracle). I create sample projects, write blog posts, speak at conferences, and collaborate with our open source community. I love traveling, working out, reading fiction, learning new things, and talking to people :)
 
-For speaking & content engagements, you can get in touch with me anywhere on social, such as on [Twitter](https://x.com/alina_yurenko) or [BlueSky](https://bsky.app/profile/alina-yurenko.bsky.social).
+For speaking & content engagements, you can get in touch with me anywhere on social, such as on [Twitter](https://x.com/alina_yurenko) or [LinkedIn](https://www.linkedin.com/in/alinayurenko/).
 
 ## Upcoming talks ✈️
 
