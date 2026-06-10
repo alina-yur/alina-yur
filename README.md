@@ -15,7 +15,7 @@ For speaking & content engagements, you can get in touch with me anywhere on soc
 * 🇳🇱 [Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com/) (Voxxed Days Amsterdam, The Netherlands, 1-2 April, 2026)
 * 🇪🇸 [Spring Native: The Future of Fast and Efficient Spring Applications](https://www.youtube.com/watch?v=cpHrLgJ-OJY) (Spring I/O, Spain, 14-15 April, 2026)
 * 🇬🇷 [Building Fast AI Search and Automation with GraalVM](https://devoxx.gr/) (Devoxx Greece, 23-25 April, 2026)
-* 
+
 See other past talks and more details [here](https://github.com/alina-yur/public-speaking/).
 
 ## Session recordings 📹
