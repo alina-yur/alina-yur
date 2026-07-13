@@ -4,22 +4,20 @@ I'm a developer advocate for the awesome [GraalVM 🐰](https://github.com/oracl
 
 For speaking & content engagements, you can get in touch with me anywhere on social, such as on [Twitter](https://x.com/alina_yurenko) or [LinkedIn](https://www.linkedin.com/in/alinayurenko/).
 
-## Upcoming talks ✈️
+## Upcoming talks
 
 * 🇸🇪 [GraalVM 25: What's New and What's Next](https://oredev.org/) (Øredev, Sweden, 4-6 November, 2026)
-
+  
 ## Previous talks
 
 ### 2026
-* 🇳🇱 [GraalVM 25: What's New and What's Next](https://amsterdam.voxxeddays.com/) (Voxxed Days Amsterdam, The Netherlands, 1-2 April, 2026)
+
+* 🇳🇱 [[GraalVM 25: What's New and What's Next](https://amsterdam.voxxeddays.com/) (Voxxed Days Amsterdam, The Netherlands, 1-2 April, 2026)
 * 🇪🇸 [Spring Native: The Future of Fast and Efficient Spring Applications](https://www.youtube.com/watch?v=cpHrLgJ-OJY) (Spring I/O, Spain, 14-15 April, 2026)
 * 🇬🇷 [Building Fast AI Search and Automation with GraalVM](https://devoxx.gr/) (Devoxx Greece, 23-25 April, 2026)
 * 🌎 [Floci: lightweight local AWS emulator, powered by GraalVM](https://www.youtube.com/watch?v=wQVQHuJ0FC0) (GraalVM YouTube, 17 June, 2026)
 * 🇵🇱 [GraalVM 25: What's New and What's Next](https://devoxx.pl/) (Devoxx Poland, 17-19 June, 2026)
-
-
-
-Floci: lightweight local AWS emulator, powered by GraalVM
+* 🌎 [GraalVM 25.1 Release Stream](https://www.youtube.com/watch?v=vmPscsMBqFc) (GraalVM YouTube, 30 June, 2026)
 
 See other past talks and more details [here](https://github.com/alina-yur/public-speaking/).
 
