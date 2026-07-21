@@ -6,7 +6,8 @@ For speaking & content engagements, you can get in touch with me anywhere on soc
 
 ## Upcoming talks
 
-* 🇸🇪 [GraalVM 25: What's New and What's Next](https://oredev.org/) (Øredev, Sweden, 4-6 November, 2026)
+* 🇵🇱 [What's New and What's Next for GraalVM](https://confitura.pl/) (Confitura, Poland, 25-26 September, 2026)
+* 🇸🇪 [What's New and What's Next for GraalVM](https://oredev.org/) (Øredev, Sweden, 4-6 November, 2026)
   
 ## Previous talks
 
