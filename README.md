@@ -43,8 +43,6 @@ You can find more on YouTube, here are a few of my favs.
 * [airline-demo ✈️](https://github.com/alina-yur/airline-demo)
 * [native-langchain4j 🦜](https://github.com/alina-yur/native-langchain4j)
 * [native-spring-ai 🤖](https://github.com/alina-yur/native-spring-ai)
-* [agentic-devrel-helper-spring 🙋‍♀️](https://github.com/alina-yur/agentic-devrel-helper-spring)
-* [native-modern-java-demo ☕️](https://github.com/alina-yur/native-modern-java-demo)
 * [christmas-market-agent 🎄](https://github.com/alina-yur/christmas-market-agent)
 * [swiss-german-dictionary 🇨🇭](https://github.com/alina-yur/swiss-german-dictionary)
 
