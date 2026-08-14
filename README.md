@@ -7,6 +7,8 @@ For speaking & content engagements, you can get in touch with me anywhere on soc
 ## Upcoming talks
 
 * 🇵🇱 [What's New and What's Next for GraalVM](https://confitura.pl) (Confitura, Poland, 25–26 September, 2026)
+* 🇧🇪 [Expanding Vector Search Beyond Similarity](https://devoxx.be) (Devoxx Belgium, Belgium, 5–9 October, 2026)
+* 🇧🇪 [GraalVM Next: Layers, Crema, and WebAssembly in Action](https://devoxx.be) (Devoxx Belgium, Belgium, 5–9 October, 2026)
 * 🇸🇪 [What's New and What's Next for GraalVM](https://oredev.org/) (Øredev, Sweden, 4-6 November, 2026)
 * 🇵🇹 [Building Fast AI Search and Automation with GraalVM](https://portotechhub.com/conference-2024/) (Porto Tech Hub, Portugal, November 10, 2026)
 
