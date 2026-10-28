@@ -6,12 +6,9 @@ For speaking & content engagements, you can get in touch with me anywhere on soc
 
 ## Upcoming talks
 
-* 🇵🇱 [What's New and What's Next for GraalVM](https://confitura.pl) (Confitura, Poland, 25–26 September, 2026)
-* 🇧🇪 [Expanding Vector Search Beyond Similarity](https://devoxx.be) (Devoxx Belgium, Belgium, 5–9 October, 2026)
-* 🇧🇪 [GraalVM Next: Layers, Crema, and WebAssembly in Action](https://devoxx.be) (Devoxx Belgium, Belgium, 5–9 October, 2026)
 * 🇸🇪 [What's New and What's Next for GraalVM](https://oredev.org/) (Øredev, Sweden, 4-6 November, 2026)
 * 🇵🇹 [Building Fast AI Search and Automation with GraalVM](https://portotechhub.com/conference-2024/) (Porto Tech Hub, Portugal, November 10, 2026)
-* 🇬🇷 [TBA](https://voxxeddays.com/thessaloniki/) (Voxxed Days Thessaloniki, Greece, 20-21 November, 2026)
+* 🇬🇷 [What’s New and What’s Next in GraalVM](https://voxxeddays.com/thessaloniki/) (Voxxed Days Thessaloniki, Greece, 20-21 November, 2026)
 
 ## Previous talks
 
@@ -23,6 +20,9 @@ For speaking & content engagements, you can get in touch with me anywhere on soc
 * 🌎 [Floci: lightweight local AWS emulator, powered by GraalVM](https://www.youtube.com/watch?v=wQVQHuJ0FC0) (GraalVM YouTube, 17 June, 2026)
 * 🇵🇱 [GraalVM 25: What's New and What's Next](https://devoxx.pl/) (Devoxx Poland, 17-19 June, 2026)
 * 🌎 [GraalVM 25.1 Release Stream](https://www.youtube.com/watch?v=vmPscsMBqFc) (GraalVM YouTube, 30 June, 2026)
+* 🇵🇱 [What's New and What's Next for GraalVM](https://confitura.pl) (Confitura, Poland, 25–26 September, 2026)
+* 🇧🇪 [Expanding Vector Search Beyond Similarity](https://devoxx.be) (Devoxx Belgium, Belgium, 5–9 October, 2026)
+* 🇧🇪 [GraalVM Next: Layers, Crema, and WebAssembly in Action](https://devoxx.be) (Devoxx Belgium, Belgium, 5–9 October, 2026)
 
 See other past talks and more details [here](https://github.com/alina-yur/public-speaking/).
 
